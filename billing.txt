@@ -1,0 +1,6 @@
+The coke costs 300
+The momo costs 480
+The apple costs 300
+The mango costs 390
+ apple 150 2 300
+ mango 160 3 480
